@@ -1,0 +1,2 @@
+Word clouds show clear sentiment signal (love/good vs sad/hate) 
+but stopwords and words like "quot" pollute both
