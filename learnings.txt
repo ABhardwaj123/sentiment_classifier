@@ -8,3 +8,9 @@ Naive Bayes(Bayes Theorem): It assumes every word as independent.
 
     Although it has a very naive assumption but it is used because it is
     extremely fast to train and sets a benchmark for comparision.
+
+Naive Bayes is faster to train
+
+In our case, logistic regression is better than Naive Bayes
+
+Saving both models as .joblib files
